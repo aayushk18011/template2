@@ -1,0 +1,466 @@
+@import url(https://db.onlinewebfonts.com/c/6138beb83221f6eb46ed08543a304d1d?family=Twentieth+Century); 
+
+body{
+    background-color: rgba(226, 43, 43, 0.244);
+}
+  
+
+.inner a{
+    text-decoration: none;
+    margin-left: 39px;
+    font-size: 16px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+}
+.head{
+    margin-left: 200px;  
+    margin-top: -28px; 
+}
+
+.text a{
+font-size: 22px;   
+margin-left: 70px;
+
+}
+.image img{
+    height: 34px;
+    width: 34px;
+    margin-top: 11px;
+}
+.inner :hover{
+    text-decoration: none;
+    margin-left: 39px;
+    font-size: 16.2px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(111, 125, 255);
+    transition: ease-in .2s;
+}
+
+.dot {
+    height: 350px;
+    width: 350px;
+    background-color: rgba(255, 192, 203, 0.441);
+    border-radius: 50%;
+    display: inline-block;
+    margin-top: 140px;
+    margin-left: -173px;
+    position: absolute;
+    filter: blur(100p);
+  }
+ 
+.name {
+    padding-top: 70px;
+    padding-left: 150px;
+    font-size: 21px;
+    font-family: Twentieth Century;
+
+}
+.name span{
+    color: orangered;
+    font-family: Twentieth Century;
+}
+.mainimg img{
+    height: 300px;
+    margin-left: 1000px;
+    margin-top: -190px;
+}
+
+.mainsign a{
+    text-decoration: none;
+    margin-left: 1300px;
+    margin-top: -40px;
+    background-color: orangered;
+    color: white;
+    padding-top: 9px ;
+    padding-bottom: 9px ;
+    padding-right: 15px ;
+    padding-left: 15px ;
+    border-radius: 10px;
+    box-shadow: 0px 10px 10px rgba(255, 68, 0, 0.332);
+}
+
+
+* {
+    box-sizing: border-box;
+  }
+  
+  /* Style the search field */
+  form.example input[type=text] {
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid grey;
+    float: left;
+    width: 27%;
+    background: #f1f1f1;
+    margin-left: 150px;
+    border-radius: 20px;
+
+  }
+  
+  /* Style the submit button */
+  form.example button {
+    float: left;
+    width: 6%;
+    padding: 10px;
+    background: orangered;
+    color: white;
+    font-size: 17px;
+    border: 1px solid grey;
+    border-left: none; /* Prevent double borders */
+    cursor: pointer;
+    border-radius: 20px;
+    margin-left: -71px;
+  }
+  
+  form.example button:hover {
+    background: rgba(255, 68, 0, 0.804);
+  }
+  
+  /* Clear floats */
+  form.example::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  .name h2{
+    padding-left: 0px;
+    font-size:18px;
+    padding-bottom: 4px;
+    font-family: Twentieth Century;
+    font-weight: lighter;
+}
+
+.temphd h1{
+    font-family: Twentieth Century;
+    text-align: center;
+    font-size: 39px;
+    margin-bottom: 90px;
+}
+.temphd SPAN{
+    color: orangered;
+}
+
+.container img{
+    height: 190px;
+    margin-left: 40px;
+    border-radius: 20px;
+}
+
+
+/* .hov :hover{
+    height: 191px;
+    margin-left: 40px;
+    border-radius: 20px;
+    transition: ease-in .2s;
+
+} */
+
+.container h4{
+    padding-left:59px;
+    font-weight: lighter;
+    margin-top: 7px;
+    font-family: Twentieth Century;
+}
+
+.cont2 a{
+    text-decoration: none;
+    background-color: orangered;
+    color: white;
+    margin-left: 70px;
+    padding-top: 9px ;
+    padding-bottom: 9px ;
+    padding-right: 15px ;
+    padding-left: 15px ;
+    border-radius: 10px;
+    box-shadow: 0px 10px 10px rgba(255, 68, 0, 0.332);
+    font-size: 13px;
+    position: absolute;
+
+}
+.container{
+    background-color: rgb(255, 255, 255);
+    margin-left: 40px;
+    padding: 20px;
+    padding-top: 20px;
+    border-radius: 40px;
+    padding-bottom: 50px;
+    padding-left: 0px;
+    margin-bottom: 50px;
+
+}
+
+.block{
+    display: flex;
+}
+
+.templates{
+ display:flex;
+}
+
+.container h2{
+    color: black;
+    text-align: center;
+    font-weight: lighter;
+    margin-bottom: -2px;
+    margin-top: 4px;
+    margin-left: 29px;
+}
+
+.buy a{
+    text-decoration: none;
+    background-color: orangered;
+    color: white;
+    margin-left: 280px;
+    padding-top: 9px ;
+    padding-bottom: 9px ;
+    padding-right: 15px ;
+    padding-left: 15px ;
+    border-radius: 10px;
+    box-shadow: 0px 10px 10px rgba(255, 68, 0, 0.332);
+    font-size: 13px;
+    margin-top: px;
+
+}
+
+.endc p{
+    text-align: left;
+    margin-right: 300px;
+    margin-left: 300px;
+
+}
+
+.endc h1{
+    text-align: center;
+}
+
+.end{
+    background-color: rgba(255, 255, 255, 0.499);
+    padding-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 20px;
+}
+.endc span{
+    color: orangered;
+}
+
+
+
+@media only screen and (max-width: 1399px) {
+    .inner a{
+        text-decoration: none;
+        margin-left: 39px;
+        font-size: 19px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color: black;
+    }
+    .head{
+        margin-left: 200px;  
+        margin-top: -28px; 
+    }
+
+    .buy a{
+        text-decoration: none;
+        background-color: orangered;
+        color: white;
+        margin-left: 240px;
+        padding-top: 9px ;
+        padding-bottom: 9px ;
+        padding-right: 15px ;
+        padding-left: 15px ;
+        border-radius: 10px;
+        box-shadow: 0px 10px 10px rgba(255, 68, 0, 0.332);
+        font-size: 13px;
+        margin-top: px;
+    
+    }
+
+
+    .sign a{
+        text-decoration: none;
+        margin-left: 1000px;
+        margin-top: 40px;
+        background-color: orangered;
+        color: white;
+        padding-top: 9px ;
+        padding-bottom: 9px ;
+        padding-right: 15px ;
+        padding-left: 15px ;
+        border-radius: 10px;
+        box-shadow: 0px 10px 10px rgba(255, 68, 0, 0.332);
+    }
+    
+.container img{
+    height: 165px;
+    margin-left: 30px;
+    border-radius: 20px;
+}
+
+.container h4{
+    padding-left:51px;
+    font-weight: lighter;
+    margin-top: 7px;
+    font-family: Twentieth Century;
+}
+
+.image img{
+    height: 30px;
+    width: 30px;
+    border-radius: 40px;
+    margin-top: 11px;
+    
+}
+
+.container a{
+    text-decoration: none;
+    background-color: orangered;
+    color: white;
+    padding-top: 9px ;
+    padding-bottom: 9px ;
+    padding-right: 15px ;
+    padding-left: 15px ;
+    border-radius: 10px;
+    box-shadow: 0px 10px 10px rgba(255, 68, 0, 0.332);
+    font-size: 13px;
+    position: absolute;
+    margin-right: 10px;
+ 
+}
+.container{
+    background-color: rgb(255, 255, 255);
+    margin-left: 30px;
+    padding: 20px;
+    padding-top: 20px;
+    border-radius: 40px;
+    padding-bottom: 45px;
+    padding-left: 0px;
+    margin-bottom: 50px;
+}
+
+.block{
+    display: flex;
+    margin-right: 20px;
+}
+
+.endc p{
+    text-align: left;
+    margin-right: 300px;
+    margin-left: 300px;
+
+}
+
+.endc h1{
+    text-align: center;
+}
+
+.end{
+    background-color: rgba(255, 255, 255, 0.499);
+    padding-bottom: 50px;
+    margin-left: 40px;
+    margin-right: 40px;
+    border-radius: 20px;
+}
+.endc span{
+    color: orangered;
+}
+
+.templates{
+    display:flex;
+    margin-right: 20px;
+   }
+   .mainimg img{
+    height: 300px;
+    margin-left: 900px;
+    margin-top: -190px;
+}
+
+}
+
+@media only screen and (max-width: 1110px) {
+
+    .end{
+        background-color: rgba(255, 255, 255, 0.499);
+        padding-bottom: 50px;
+        margin-left: 50px;
+        margin-right: 10px;
+        border-radius: 20px;
+    }
+    .sign a{
+        text-decoration: none;
+        margin-left: 950px;
+        margin-top: 40px;
+        background-color: orangered;
+        color: white;
+        padding-top: 9px ;
+        padding-bottom: 9px ;
+        padding-right: 15px ;
+        padding-left: 15px ;
+        border-radius: 10px;
+        box-shadow: 0px 10px 10px rgba(255, 68, 0, 0.332);
+    }
+
+    .mainimg img{
+        height: 300px;
+        margin-left: 900px;
+        margin-top: -190px;
+    }
+    form.example button {
+        float: left;
+        width: 7%;
+        padding: 10px;
+        background: orangered;
+        color: white;
+        font-size: 17px;
+        border: 1px solid grey;
+        border-left: none; /* Prevent double borders */
+        cursor: pointer;
+        border-radius: 20px;
+        margin-left: -71px;
+      }
+      .container{
+        background-color: rgb(255, 255, 255);
+        margin-left: 10px;
+        padding: 20px;
+        padding-top: 20px;
+        border-radius: 40px;
+        padding-bottom: 45px;
+        padding-left: 0px;
+        margin-bottom: 50px;
+    }
+}
+
+@media only screen and (max-width: 1030px) {
+
+    .sign a{
+        text-decoration: none;
+        margin-left: 840px;
+        margin-top: 40px;
+        background-color: orangered;
+        color: white;
+        padding-top: 9px ;
+        padding-bottom: 9px ;
+        padding-right: 15px ;
+        padding-left: 15px ;
+        border-radius: 10px;
+        box-shadow: 0px 10px 10px rgba(255, 68, 0, 0.332);
+    }
+
+
+
+}
+
+@media only screen and (max-width: 500px) {
+    .inner a{
+        text-decoration: none;
+        margin-left: 19px;
+        font-size: 29px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color: black;
+    }
+    .head{
+        margin-left: 25px;
+        margin-top: 8px; 
+        
+    }
+
+}

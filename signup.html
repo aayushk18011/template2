@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Coding Titans</title>
+    <link rel="icon" href="/img/logo.jpeg">
+    <link rel="stylesheet" href="/css/signup.css">
+
+</head>
+<body>
+<header>
+    <div class="image">
+        <img src="/img/logo.jpeg">
+   </div>
+
+
+ <span class="dot"></span>
+
+ <div class="form">
+  <div class="signh">
+    <h1>Sign <span>Up</span></h1>
+  </div>
+
+
+
+    <div class="container">
+        <form class="e" action="action_page.php">
+            <input type="text" placeholder="Enter Your Name" name="name">
+
+            <form class="email" action="action_page.php">
+                <input type="text" placeholder="Enter Your Email" name="email">
+    
+                <form class="pass" action="action_page.php">
+                    <input type="password" placeholder="Enter Your Password"  id="myInput">
+                    <input class="check" type="checkbox" onclick="myFunction()" >
+                  <div class="pas"><a>Show Password</a> </div>  
+                    <script>
+                        function myFunction() {
+  var x = document.getElementById("myInput");
+  if (x.type === "password") {
+    x.type = "text";
+  } else {
+    x.type = "password";
+  }
+}
+                    </script>
+        <div class="mainsign1">
+          <div class="sign1"><a href="#">Sign Up</a></div> 
+       </div>
+       <div class="login">
+        <a href="#">Have a account? Log In now..</a>
+       </div>
+              </div>
+ </div>
+    
+ </body>
+ </html>

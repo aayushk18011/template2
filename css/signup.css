@@ -1,0 +1,137 @@
+@import url(https://db.onlinewebfonts.com/c/6138beb83221f6eb46ed08543a304d1d?family=Twentieth+Century); 
+
+body{
+    background-image: url(/img/signin.jpg);
+    background-repeat: no-repeat;
+    background-position: top right;
+    background-color: #fbcae2dc;
+}
+  
+
+
+.text a{
+font-size: 22px;   
+margin-left: 70px;
+
+}
+.image img{
+    height: 34px;
+    width: 34px;
+    border-radius: 40px;
+    margin-top: 11px;
+}
+.inner :hover{
+    text-decoration: none;
+    margin-left: 39px;
+    font-size: 16.2px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(111, 125, 255);
+    transition: ease-in .2s;
+}
+
+/* .dot {
+    height: 350px;
+    width: 350px;
+    background-color: rgba(255, 192, 203, 0.441);
+    border-radius: 50%;
+    display: inline-block;
+    margin-top: 140px;
+    margin-left: -173px;
+    position: absolute;
+    filter: blur(100p);
+  } */
+ 
+.name {
+    padding-top: 70px;
+    padding-left: 150px;
+    font-size: 21px;
+    font-family: Twentieth Century;
+
+}
+
+input[type=text], input[type=password] {
+    width: 40%;
+    padding: 15px;
+    margin-bottom:70px;
+    display: flex;
+    border: none;
+    background: #f1f1f1;
+    margin-left: 150px;
+    margin-top: 20px;
+  }
+  
+  input[type=text]:focus, input[type=password]:focus {
+    background-color: #ddd;
+    outline: none;
+  }
+
+
+  .form{
+    background-color: rgba(255, 255, 255, 0.485);
+    margin-right: 1000px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    margin-top: 70px;
+    margin-left: 20px;
+    border-radius: 40px;
+  }
+
+  input[type=checkbox] {
+    width: 40%;
+    padding: 15px;
+    margin-bottom:70px;
+    display: flex;
+    border: none;
+    background: #f1f1f1;
+    margin-left: 159px;
+    margin-top: -50px;
+  
+  }
+  
+  .pas{
+     margin-top: -85px;
+     margin-left: 190px;
+     font-family: Twentieth Century;
+     font-size: 18px;
+     margin-bottom: 70px;
+  }
+
+  input.check {
+    width :15px;
+    height : 15px;
+}
+
+.sign1 a{
+  text-decoration: none;
+  margin-left: 200px;
+  margin-top: 110px;
+  background-color: orangered;
+  color: white;
+  padding-top: 9px ;
+  padding-bottom: 9px ;
+  padding-right: 15px ;
+  padding-left: 15px ;
+  border-radius: 10px;
+  box-shadow: 0px 10px 10px rgba(255, 68, 0, 0.332);
+}
+
+.signh{
+  font-family: Twentieth Century;
+  text-align: center;
+  padding-bottom: 20px;
+  padding-right: 20px;
+  font-size: 20px;
+}
+.signh span{
+  color: orangered;
+}
+
+.login a{
+  margin-left: 150px;
+ padding-bottom: 80px;
+ text-decoration: none;
+}
+.login{
+  margin-top: 30px;
+
+}
