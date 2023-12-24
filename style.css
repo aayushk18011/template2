@@ -1,0 +1,1514 @@
+@import url(https://db.onlinewebfonts.com/c/6138beb83221f6eb46ed08543a304d1d?family=Twentieth+Century); 
+
+body{
+    background-color: rgba(226, 43, 43, 0.244);
+}
+  
+
+.inner a{
+    text-decoration: none;
+    margin-left: 39px;
+    font-size: 16px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+}
+.head{
+    margin-left: 200px;  
+    margin-top: -28px; 
+}
+
+.text a{
+font-size: 22px;   
+margin-left: 70px;
+
+}
+.image img{
+    height: 34px;
+    width: 34px;
+    margin-top: 11px;
+}
+
+
+.dot {
+    height: 350px;
+    width: 350px;
+    background-color: rgba(255, 192, 203, 0.441);
+    border-radius: 50%;
+    display: inline-block;
+    margin-top: 140px;
+    margin-left: -173px;
+    position: absolute;
+    filter: blur(100p);
+  }
+ 
+.name {
+    padding-top: 70px;
+    padding-left: 150px;
+    font-size: 21px;
+    font-family: Twentieth Century;
+
+}
+.name span{
+    color: orangered;
+    font-family: Twentieth Century;
+}
+.mainimg img{
+    height: 300px;
+    margin-left: 1000px;
+    margin-top: -190px;
+}
+
+.mainsign a{
+    text-decoration: none;
+    margin-left: 1300px;
+    margin-top: -40px;
+    background-color: orangered;
+    color: white;
+    padding-top: 9px ;
+    padding-bottom: 9px ;
+    padding-right: 15px ;
+    padding-left: 15px ;
+    border-radius: 10px;
+    box-shadow: 0px 10px 10px rgba(255, 68, 0, 0.332);
+}
+
+
+* {
+    box-sizing: border-box;
+  }
+  
+  /* Style the search field */
+  form.example input[type=text] {
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid grey;
+    float: left;
+    width: 27%;
+    background: #f1f1f1;
+    margin-left: 150px;
+    border-radius: 20px;
+
+  }
+  
+  /* Style the submit button */
+  form.example button {
+    float: left;
+    width: 6%;
+    padding: 10px;
+    background: orangered;
+    color: white;
+    font-size: 17px;
+    border: 1px solid grey;
+    border-left: none; /* Prevent double borders */
+    cursor: pointer;
+    border-radius: 20px;
+    margin-left: -71px;
+  }
+  
+  form.example button:hover {
+    background: rgba(255, 68, 0, 0.804);
+  }
+  
+  /* Clear floats */
+  form.example::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  .name h2{
+    padding-left: 0px;
+    font-size:18px;
+    padding-bottom: 4px;
+    font-family: Twentieth Century;
+    font-weight: lighter;
+}
+
+.temphd h1{
+    font-family: Twentieth Century;
+    text-align: center;
+    font-size: 39px;
+    margin-bottom: 90px;
+}
+.temphd SPAN{
+    color: orangered;
+}
+
+.container img{
+    height: 190px;
+    margin-left: 40px;
+    border-radius: 20px;
+}
+
+
+/* .hov :hover{
+    height: 191px;
+    margin-left: 40px;
+    border-radius: 20px;
+    transition: ease-in .2s;
+
+} */
+
+.container h4{
+    padding-left:59px;
+    font-weight: lighter;
+    margin-top: 7px;
+    font-family: Twentieth Century;
+}
+
+.cont2 a{
+    text-decoration: none;
+    background-color: orangered;
+    color: white;
+    margin-left: 70px;
+    padding-top: 9px ;
+    padding-bottom: 9px ;
+    padding-right: 15px ;
+    padding-left: 15px ;
+    border-radius: 10px;
+    box-shadow: 0px 10px 10px rgba(255, 68, 0, 0.332);
+    font-size: 13px;
+    position: absolute;
+
+}
+.container{
+    background-color: rgb(255, 255, 255);
+    margin-left: 40px;
+    padding: 20px;
+    padding-top: 20px;
+    border-radius: 40px;
+    padding-bottom: 50px;
+    padding-left: 0px;
+    margin-bottom: 50px;
+
+}
+
+.block{
+    display: flex;
+}
+
+.templates{
+ display:flex;
+}
+
+.container h2{
+    color: black;
+    text-align: center;
+    font-weight: lighter;
+    margin-bottom: -2px;
+    margin-top: 4px;
+    margin-left: 29px;
+}
+
+.buy a{
+    text-decoration: none;
+    background-color: orangered;
+    color: white;
+    margin-left: 280px;
+    padding-top: 9px ;
+    padding-bottom: 9px ;
+    padding-right: 15px ;
+    padding-left: 15px ;
+    border-radius: 10px;
+    box-shadow: 0px 10px 10px rgba(255, 68, 0, 0.332);
+    font-size: 13px;
+    margin-top: px;
+
+}
+
+.endc p{
+    text-align: left;
+    margin-right: 300px;
+    margin-left: 300px;
+
+}
+
+.endc h1{
+    text-align: center;
+}
+
+.end{
+    background-color: rgba(255, 255, 255, 0.499);
+    padding-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 20px;
+}
+.endc span{
+    color: orangered;
+}
+
+
+
+@media only screen and (max-width: 1399px) {
+    .inner a{
+        text-decoration: none;
+        margin-left: 39px;
+        font-size: 19px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color: black;
+    }
+    .head{
+        margin-left: 200px;  
+        margin-top: -28px; 
+    }
+
+    .buy a{
+        text-decoration: none;
+        background-color: orangered;
+        color: white;
+        margin-left: 240px;
+        padding-top: 9px ;
+        padding-bottom: 9px ;
+        padding-right: 15px ;
+        padding-left: 15px ;
+        border-radius: 10px;
+        box-shadow: 0px 10px 10px rgba(255, 68, 0, 0.332);
+        font-size: 13px;
+        margin-top: px;
+    
+    }
+
+
+    .sign a{
+        text-decoration: none;
+        margin-left: 1000px;
+        margin-top: 40px;
+        background-color: orangered;
+        color: white;
+        padding-top: 9px ;
+        padding-bottom: 9px ;
+        padding-right: 15px ;
+        padding-left: 15px ;
+        border-radius: 10px;
+        box-shadow: 0px 10px 10px rgba(255, 68, 0, 0.332);
+    }
+    
+.container img{
+    height: 150px;
+    margin-left: 28px;
+    border-radius: 20px;
+}
+
+.container h4{
+    padding-left:239px;
+    font-weight: lighter;
+    margin-top: 7px;
+    font-family: Twentieth Century;
+}
+
+.image img{
+    height: 30px;
+    width: 30px;
+    border-radius: 40px;
+    margin-top: 11px;
+    
+}
+
+.container a{
+    text-decoration: none;
+    background-color: orangered;
+    color: white;
+    padding-top: 9px ;
+    padding-bottom: 9px ;
+    padding-right: -95px ;
+    padding-left: 1px ;
+    border-radius: 10px;
+    box-shadow: 0px 10px 10px rgba(255, 68, 0, 0.332);
+    font-size: 13px;
+    position: absolute;
+    margin-right: 10px;
+ 
+}
+.container{
+    background-color: rgb(255, 255, 255);
+    margin-left: 30px;
+    padding: 20px;
+    padding-top: 20px;
+    border-radius: 40px;
+    padding-bottom: 45px;
+    padding-left: 0px;
+    margin-bottom: 50px;
+}
+
+.block{
+    display: flex;
+    margin-right: 20px;
+}
+
+.endc p{
+    text-align: left;
+    margin-right: 300px;
+    margin-left: 300px;
+    
+}
+
+.endc h1{
+    text-align: center;
+}
+
+.end{
+    background-color: rgba(255, 255, 255, 0.499);
+    padding-bottom: 50px;
+    margin-left: 40px;
+    margin-right: px;
+    border-radius: 20px;
+
+}
+.endc span{
+    color: orangered;
+}
+
+.templates{
+    display:flex;
+    margin-right: 20px;
+   }
+   .mainimg img{
+    height: 300px;
+    margin-left: 900px;
+    margin-top: -190px;
+}
+
+}
+
+@media only screen and (max-width: 1240px) {
+
+    .end{
+        background-color: rgba(255, 255, 255, 0.499);
+        padding-bottom: 50px;
+        margin-left: 50px;
+        margin-right: 10px;
+        border-radius: 20px;
+    }
+    .buy a{
+        text-decoration: none;
+        background-color: orangered;
+        color: white;
+        margin-left: 470px;
+        padding-top: 9px ;
+        padding-bottom: 9px ;
+        padding-right: 15px ;
+        padding-left: 15px ;
+        border-radius: 10px;
+        box-shadow: 0px 10px 10px rgba(255, 68, 0, 0.332);
+        font-size: 13px;
+        margin-top: px;
+    
+    }
+
+    .cont2 a{
+        text-decoration: none;
+        background-color: orangered;
+        color: white;
+        margin-left:35px;
+        padding-top: 9px ;
+        padding-bottom: 9px ;
+        padding-right: 15px ;
+        padding-left: 15px ;
+        border-radius: 10px;
+        box-shadow: 0px 10px 10px rgba(255, 68, 0, 0.332);
+        font-size: 13px;
+        position: absolute;
+    
+    }
+    .sign a{
+        text-decoration: none;
+        margin-left: 950px;
+        margin-top: 40px;
+        background-color: orangered;
+        color: white;
+        padding-top: 9px ;
+        padding-bottom: 9px ;
+        padding-right: 15px ;
+        padding-left: 15px ;
+        border-radius: 10px;
+        box-shadow: 0px 10px 10px rgba(255, 68, 0, 0.332);
+    }
+
+    .mainimg img{
+        height: 300px;
+        margin-left: 900px;
+        margin-top: -190px;
+    }
+    form.example button {
+        float: left;
+        width: 7%;
+        padding: 10px;
+        background: orangered;
+        color: white;
+        font-size: 17px;
+        border: 1px solid grey;
+        border-left: none; /* Prevent double borders */
+        cursor: pointer;
+        border-radius: 20px;
+        margin-left: -71px;
+      }
+      .container{
+        background-color: rgb(255, 255, 255);
+        margin-left: 150px;
+        padding: 20px;
+        padding-top: 20px;
+        border-radius: 40px;
+        padding-bottom: 45px;
+        padding-left: 0px;
+        margin-right: 60px;
+    }
+    .end{
+        background-color: rgba(255, 255, 255, 0.499);
+        padding-bottom: 50px;
+        margin-left: 10px;
+        margin-right: 4px;
+        border-radius: 20px;
+    
+    }
+}
+
+@media only screen and (max-width: 1262px) {
+
+    .sign a{
+        text-decoration: none;
+        margin-left: 890px;
+        margin-top: 40px;
+        background-color: orangered;
+        color: white;
+        padding-top: 9px ;
+        padding-bottom: 9px ;
+        padding-right: 15px ;
+        padding-left: 10px ;
+        border-radius: 10px;
+        box-shadow: 0px 10px 10px rgba(255, 68, 0, 0.332);
+    }
+   
+    
+    .buy a{
+        text-decoration: none;
+        background-color: orangered;
+        color: white;
+        margin-left: 470px;
+        padding-top: 9px ;
+        padding-bottom: 9px ;
+        padding-right: 15px ;
+        padding-left: 15px ;
+        border-radius: 10px;
+        box-shadow: 0px 10px 10px rgba(255, 68, 0, 0.332);
+        font-size: 13px;
+        margin-top: px;
+    
+    }
+
+    .container img{
+        height: 156px;
+        margin-left: 27px;
+        border-radius: 20px;
+    }
+    .name {
+        padding-top: 70px;
+        padding-left: 150px;
+        font-size: 21px;
+        font-family: Twentieth Century;
+    
+    }
+    form.example button {
+        float: left;
+        width: 9%;
+        padding: 10px;
+        background: orangered;
+        color: white;
+        font-size: 17px;
+        border: 1px solid grey;
+        border-left: none; /* Prevent double borders */
+        cursor: pointer;
+        border-radius: 20px;
+        margin-left: -40px;
+      }
+
+}
+
+@media only screen and (max-width: 500px) {
+    .inner a{
+        text-decoration: none;
+        margin-left: 19px;
+        font-size: 29px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color: black;
+    }
+    .head{
+        margin-left: 25px;
+        margin-top: 8px; 
+        
+    }
+
+}
+
+
+@media only screen and (max-width: 1424px) {
+
+    .hov a{
+        display: contents;
+    }
+
+    .end{
+        background-color: rgba(255, 255, 255, 0.499);
+        padding-bottom: 50px;
+        margin-left: 10px;
+        margin-right: 10px;
+        border-radius: 20px;
+    }
+
+    .endc p{
+        text-align: left;
+        margin-right: 10px;
+        margin-left: 100px;
+    
+    }
+    
+}
+
+@media only screen and (max-width: 990px){
+    .sign a{
+        text-decoration: none;
+        margin-left: 800px;
+        margin-top: 40px;
+        background-color: orangered;
+        color: white;
+        padding-top: 9px ;
+        padding-bottom: 9px ;
+        padding-right: 15px ;
+        padding-left: 10px ;
+        border-radius: 10px;
+        box-shadow: 0px 10px 10px rgba(255, 68, 0, 0.332);
+    }
+    .inner a{
+        text-decoration: none;
+        margin-left: 18px;
+        font-size: 19px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color: black;
+    }
+    .end{
+        background-color: rgba(255, 255, 255, 0.499);
+        padding-bottom: 50px;
+        margin-left: 10px;
+        margin-right: -260px;
+        border-radius: 20px;
+    }
+    .container img{
+        height: 154px;
+        margin-left: 37px;
+        border-radius: 20px;
+    }
+
+}
+
+@media only screen and (max-width: 1190px){
+    .sign a{
+        text-decoration: none;
+        margin-left: 750px;
+        margin-top: 40px;
+        background-color: orangered;
+        color: white;
+        padding-top: 7px ;
+        padding-bottom: 7px ;
+        padding-right: 15px ;
+        padding-left: 10px ;
+        border-radius: 10px;
+        box-shadow: 0px 10px 10px rgba(255, 68, 0, 0.332);
+    }
+
+    .end{
+        background-color: rgba(255, 255, 255, 0.499);
+        padding-bottom: 50px;
+        margin-left: 10px;
+        margin-right: -260px;
+        border-radius: 20px;
+    }
+    .container img{
+        height: 210px;
+        margin-left: 119px;
+        margin-right: 0cap;
+        border-radius: 20px;
+       
+    }
+    
+    .end{
+        background-color: rgba(255, 255, 255, 0.499);
+        padding-bottom: 50px;
+        margin-left: 10px;
+        margin-right: 20px;
+        border-radius: 20px;
+    }
+
+    .endc p{
+        text-align: left;
+        margin-right: 10px;
+        margin-left: 10px;
+    
+    }
+    .container{
+        background-color: rgb(255, 255, 255);
+        margin-left: 170px;
+        padding: 20px;
+        padding-top: 20px;
+        border-radius: 40px;
+        padding-bottom: 45px;
+        padding-left: 0px;
+        margin-right: 70px;
+    }
+    
+    .block{
+        display: block;
+        margin-right: 20px;
+    }
+}
+
+@media only screen and (max-width: 878px){
+    .sign a{
+        text-decoration: none;
+        margin-left: 680px;
+        margin-top: 40px;
+        background-color: orangered;
+        color: white;
+        padding-top: 7px ;
+        padding-bottom: 7px ;
+        padding-right: 15px ;
+        padding-left: 10px ;
+        border-radius: 10px;
+        box-shadow: 0px 10px 10px rgba(255, 68, 0, 0.332);
+    }
+    .endc p{
+        text-align: left;
+        margin-right: 10px;
+        margin-left: 10px;
+    
+    }
+    .inner :hover{
+        text-decoration: none;
+        font-size: 16.2px;
+        margin-left: 39px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color: rgb(111, 125, 255);
+        transition: ease-in .2s;
+    }
+    .container{
+        background-color: rgb(255, 255, 255);
+        margin-left: 170px;
+        padding: 20px;
+        padding-top: 20px;
+        border-radius: 40px;
+        padding-bottom: 45px;
+        padding-left: 0px;
+        margin-right: 70px;
+    }
+    .container img{
+        height: 170px;
+        margin-left: 119px;
+        margin-right: 0cap;
+        border-radius: 20px;
+       
+    }
+    .buy a{
+        text-decoration: none;
+        background-color: orangered;
+        color: white;
+        margin-left: 400px;
+        padding-top: 9px ;
+        padding-bottom: 9px ;
+        padding-right: 15px ;
+        padding-left: 15px ;
+        border-radius: 10px;
+        box-shadow: 0px 10px 10px rgba(255, 68, 0, 0.332);
+        font-size: 13px;
+        margin-top: px;
+    
+    }
+    .container h4{
+        padding-left:149px;
+        font-weight: lighter;
+        margin-top: 7px;
+        font-family: Twentieth Century;
+    }
+}
+@media only screen and (max-width: 778px){
+    .sign a{
+        text-decoration: none;
+        margin-left: 600px;
+        margin-top: 40px;
+        background-color: orangered;
+        color: white;
+        padding-top: 7px ;
+        padding-bottom: 7px ;
+        padding-right: 15px ;
+        padding-left: 10px ;
+        border-radius: 10px;
+        box-shadow: 0px 10px 10px rgba(255, 68, 0, 0.332);
+    }
+    .endc p{
+        text-align: left;
+        margin-right: 10px;
+        margin-left: 10px;
+    
+    }
+    .container{
+        background-color: rgb(255, 255, 255);
+        padding: 20px;
+        margin-left: 170px;
+        padding-top: 20px;
+        border-radius: 40px;
+        padding-bottom: 45px;
+        padding-left: 0px;
+        margin-right: 60px;
+    }
+    .container img{
+        height: 164px;
+        margin-left: 89px;
+        margin-right: 0cap;
+        border-radius: 20px;
+       
+    }
+    .buy a{
+        text-decoration: none;
+        background-color: orangered;
+        color: white;
+        margin-left: 320px;
+        padding-top: 9px ;
+        padding-bottom: 9px ;
+        padding-right: 15px ;
+        padding-left: 15px ;
+        border-radius: 10px;
+        box-shadow: 0px 10px 10px rgba(255, 68, 0, 0.332);
+        font-size: 13px;
+        margin-top: px;
+    
+    }
+    .container h4{
+        padding-left:99px;
+        font-weight: lighter;
+        margin-top: 7px;
+        font-family: Twentieth Century;
+    }
+    
+    .inner a{
+        text-decoration: none;
+        margin-left: 29px;
+        font-size: 19px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color: black;
+    }
+    .inner {
+        text-decoration: none;
+        margin-left: -99px;
+        font-size: 19px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color: black;
+    }
+
+}
+
+@media only screen and (max-width: 708px){
+    .sign a{
+        text-decoration: none;
+        margin-left: 500px;
+        margin-top: 40px;
+        background-color: orangered;
+        color: white;
+        padding-top: 7px ;
+        padding-bottom: 7px ;
+        padding-right: 15px ;
+        padding-left: 10px ;
+        border-radius: 10px;
+        box-shadow: 0px 10px 10px rgba(255, 68, 0, 0.332);
+    }
+    .endc p{
+        text-align: left;
+        margin-right: 10px;
+        margin-left: 10px;
+    
+    }
+    .container{
+        background-color: rgb(255, 255, 255);
+        padding: 20px;
+        margin-left: 170px;
+        padding-top: 20px;
+        border-radius: 40px;
+        padding-bottom: 45px;
+        padding-left: 0px;
+        margin-right: 60px;
+    }
+    .container img{
+        height: 158px;
+        margin-left: 59px;
+        margin-right: 0cap;
+        border-radius: 20px;
+       
+    }
+    .buy a{
+        text-decoration: none;
+        background-color: orangered;
+        color: white;
+        margin-left: 280px;
+        padding-top: 9px ;
+        padding-bottom: 9px ;
+        padding-right: 15px ;
+        padding-left: 15px ;
+        border-radius: 10px;
+        box-shadow: 0px 10px 10px rgba(255, 68, 0, 0.332);
+        font-size: 13px;
+        margin-top: px;
+    
+    }
+    .container h4{
+        padding-left:79px;
+        font-weight: lighter;
+        margin-top: 7px;
+        font-family: Twentieth Century;
+    }
+    
+    .inner a{
+        text-decoration: none;
+        margin-left: 29px;
+        font-size: 19px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color: black;
+    }
+    .inner {
+        text-decoration: none;
+        margin-left: -179px;
+        font-size: 19px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color: black;
+    }
+
+}
+@media only screen and (max-width: 608px){
+    .sign a{
+        text-decoration: none;
+        margin-left: 400px;
+        margin-bottom: 1px;
+        background-color: orangered;
+        color: white;
+        padding-top: 7px ;
+        padding-bottom: 7px ;
+        padding-right: 15px ;
+        padding-left: 10px ;
+        border-radius: 10px;
+        box-shadow: 0px 10px 10px rgba(255, 68, 0, 0.332);
+    }
+    .sign{
+        margin-top: 69px;
+        margin-left: -380px;
+    }
+    .endc p{
+        text-align: left;
+        margin-right: 10px;
+        margin-left: 10px;
+    
+    }
+    .container{
+        background-color: rgb(255, 255, 255);
+        padding: 20px;
+        margin-left: 100px;
+        padding-top: 20px;
+        border-radius: 40px;
+        padding-bottom: 45px;
+        padding-left: 0px;
+        margin-right:100px;
+    }
+    .container img{
+        height: 148px;
+        margin-left: 19px;
+        margin-right: 0cap;
+        border-radius: 20px;
+       
+    }
+    .buy a{
+        text-decoration: none;
+        background-color: orangered;
+        color: white;
+        margin-left: 250px;
+        padding-top: 9px ;
+        padding-bottom: 9px ;
+        padding-right: 15px ;
+        padding-left: 15px ;
+        border-radius: 10px;
+        box-shadow: 0px 10px 10px rgba(255, 68, 0, 0.332);
+        font-size: 13px;
+        margin-top: px;
+    
+    }
+    .container h4{
+        padding-left:79px;
+        font-weight: lighter;
+        margin-top: 7px;
+        font-family: Twentieth Century;
+    }
+    
+    .inner a{
+        text-decoration: none;
+        margin-left: 19px;
+        font-size: 19px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color: black;
+    }
+    .inner {
+        text-decoration: none;
+        margin-left: -179px;
+        font-size: 19px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color: black;
+    }
+
+}
+
+@media only screen and (max-width: 588px){
+    .sign a{
+        text-decoration: none;
+        margin-left: 400px;
+        margin-bottom: 1px;
+        background-color: orangered;
+        color: white;
+        padding-top: 7px ;
+        padding-bottom: 7px ;
+        padding-right: 15px ;
+        padding-left: 10px ;
+        border-radius: 10px;
+        box-shadow: 0px 10px 10px rgba(255, 68, 0, 0.332);
+    }
+    .sign{
+        margin-top: 69px;
+        margin-left: -380px;
+    }
+    .endc p{
+        text-align: left;
+        margin-right: 10px;
+        margin-left: 10px;
+    
+    }
+    .container{
+        background-color: rgb(255, 255, 255);
+        padding: 20px;
+        margin-left: 100px;
+        padding-top: 20px;
+        border-radius: 40px;
+        padding-bottom: 45px;
+        padding-left: 0px;
+        margin-right:100px;
+    }
+    .container img{
+        height: 140px;
+        margin-left: 19px;
+        margin-right: 0cap;
+        border-radius: 20px;
+       
+    }
+    .buy a{
+        text-decoration: none;
+        background-color: orangered;
+        color: white;
+        margin-left: 180px;
+        padding-top: 9px ;
+        padding-bottom: 9px ;
+        padding-right: 15px ;
+        padding-left: 15px ;
+        border-radius: 10px;
+        box-shadow: 0px 10px 10px rgba(255, 68, 0, 0.332);
+        font-size: 13px;
+        margin-top: px;
+    
+    }
+    .container h4{
+        padding-left:49px;
+        font-weight: lighter;
+        margin-top: 7px;
+        font-family: Twentieth Century;
+    }
+    
+    .inner a{
+        text-decoration: none;
+        margin-left: 19px;
+        font-size: 19px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color: black;
+    }
+    .inner {
+        text-decoration: none;
+        margin-left: -179px;
+        font-size: 19px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color: black;
+    }
+    .name {
+        padding-top: 70px;
+        padding-left: 90px;
+        font-size: 21px;
+        font-family: Twentieth Century;
+    
+    }
+    .name h2 {
+     
+        font-size: 21px;
+        font-family: Twentieth Century;
+    
+    }
+}
+@media only screen and (max-width: 560px){
+    .sign a{
+        text-decoration: none;
+        margin-left: 400px;
+        margin-bottom: 1px;
+        background-color: orangered;
+        color: white;
+        padding-top: 7px ;
+        padding-bottom: 7px ;
+        padding-right: 15px ;
+        padding-left: 10px ;
+        border-radius: 10px;
+        box-shadow: 0px 10px 10px rgba(255, 68, 0, 0.332);
+    }
+    .sign{
+        margin-top: 69px;
+        margin-left: -380px;
+    }
+    .endc p{
+        text-align: left;
+        margin-right: 10px;
+        margin-left: 10px;
+    
+    }
+    .container{
+        background-color: rgb(255, 255, 255);
+        padding: 20px;
+        margin-left: 50px;
+        padding-top: 20px;
+        border-radius: 40px;
+        padding-bottom: 45px;
+        padding-left: 0px;
+        margin-right:80px;
+    }
+    .container img{
+        height: 130px;
+        margin-left: 19px;
+        margin-right: 0cap;
+        border-radius: 20px;
+       
+    }
+    .buy a{
+        text-decoration: none;
+        background-color: orangered;
+        color: white;
+        margin-left: 180px;
+        padding-top: 9px ;
+        padding-bottom: 9px ;
+        padding-right: 15px ;
+        padding-left: 15px ;
+        border-radius: 10px;
+        box-shadow: 0px 10px 10px rgba(255, 68, 0, 0.332);
+        font-size: 13px;
+        margin-top: px;
+    
+    }
+  
+    .container h4{
+        padding-left:49px;
+        font-weight: lighter;
+        margin-top: 7px;
+        font-family: Twentieth Century;
+    }
+    
+    .inner a{
+        text-decoration: none;
+        margin-left: 19px;
+        font-size: 19px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color: black;
+    }
+    .inner {
+        text-decoration: none;
+        margin-left: -179px;
+        font-size: 19px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color: black;
+    }
+    .name {
+        padding-top: 70px;
+        padding-left: 90px;
+        font-size: 21px;
+        font-family: Twentieth Century;
+    
+    }
+    .alltemps{
+        background-color: rgb(188, 163, 179);
+        padding-top: 20px;
+        padding-bottom: 20px;
+        border-radius: 20px;
+     
+    }
+    .name h2 {
+     
+        font-size: 21px;
+        font-family: Twentieth Century;
+    
+    }
+
+}
+@media only screen and (max-width: 460px){
+    .sign a{
+        text-decoration: none;
+        margin-left: 400px;
+        margin-bottom: 1px;
+        background-color: orangered;
+        color: white;
+        padding-top: 7px ;
+        padding-bottom: 7px ;
+        padding-right: 15px ;
+        padding-left: 10px ;
+        border-radius: 10px;
+        box-shadow: 0px 10px 10px rgba(255, 68, 0, 0.332);
+    }
+    .sign{
+        margin-top: 69px;
+        margin-left: -380px;
+    }
+    .endc p{
+        text-align: left;
+        margin-right: 10px;
+        margin-left: 10px;
+    
+    }
+    .container{
+        background-color: rgb(255, 255, 255);
+        padding: 20px;
+        margin-left: 40px;
+        padding-top: 20px;
+        border-radius: 40px;
+        padding-bottom: 45px;
+        padding-left: 0px;
+        margin-right:20px;
+    }
+    .container img{
+        height: 130px;
+        margin-left: 29px;
+        margin-right: 0cap;
+        border-radius: 20px;
+       
+    }
+    .buy a{
+        text-decoration: none;
+        background-color: orangered;
+        color: white;
+        margin-left: 180px;
+        padding-top: 9px ;
+        padding-bottom: 9px ;
+        padding-right: 15px ;
+        padding-left: 15px ;
+        border-radius: 10px;
+        box-shadow: 0px 10px 10px rgba(255, 68, 0, 0.332);
+        font-size: 13px;
+        margin-top: px;
+    
+    }
+    .alltemps{
+        background-color: rgb(188, 163, 179);
+        padding-top: 20px;
+        padding-bottom: 20px;
+        border-radius: 20px;
+     
+    }
+    .container h4{
+        padding-left:49px;
+        font-weight: lighter;
+        margin-top: 7px;
+        font-family: Twentieth Century;
+    }
+    
+    .inner a{
+        text-decoration: none;
+        margin-left: 15px;
+        font-size: 22px;
+        font-family: Twentieth Century;
+    }
+    .inner {
+        text-decoration: none;
+        margin-left: -19px;
+        font-size: 19px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color: black;
+    }
+    .name {
+        padding-top: 70px;
+        padding-left: 90px;
+        font-size: 21px;
+        font-family: Twentieth Century;
+    
+    }
+    .name h2 {
+     
+        font-size: 21px;
+        font-family: Twentieth Century;
+    
+    }
+    form.example button {
+        float: left;
+        width: 19%;
+        padding: 10px;
+        background: orangered;
+        color: white;
+        font-size: 17px;
+        border: 1px solid grey;
+        border-left: none; /* Prevent double borders */
+        cursor: pointer;
+        border-radius: 20px;
+        margin-left: -40px;
+      }
+      form.example input[type=text] {
+        padding: 10px;
+        font-size: 17px;
+        border: 1px solid grey;
+        float: left;
+        width: 68%;
+        background: #f1f1f1;
+        margin-left: 33px;
+        border-radius: 20px;
+    }
+   
+}
+@media only screen and (max-width: 419px){
+    .sign a{
+        text-decoration: none;
+        margin-left: 400px;
+        margin-bottom: 1px;
+        background-color: orangered;
+        color: white;
+        padding-top: 9px ;
+        padding-bottom: 9px ;
+        padding-right: 15px ;
+        padding-left: 10px ;
+        border-radius: 10px;
+        box-shadow: 0px 10px 10px rgba(255, 68, 0, 0.332);
+    }
+    .sign{
+        margin-top: 69px;
+        margin-left: -380px;
+    }
+    .endc p{
+        text-align: left;
+        margin-right: 10px;
+        margin-left: 10px;
+    
+    }
+    .container {
+        background-color: rgb(255, 255, 255);
+        padding: 20px;
+        margin-left: 38px;
+        padding-top: 20px;
+        border-radius: 40px;
+        padding-bottom: 45px;
+        padding-left: 0px;
+        margin-right: 20px;
+    }
+    .container img{
+        height: 127px;
+        margin-left: 15px;
+        margin-right: 0cap;
+        border-radius: 20px;
+       
+    }
+    .buy a{
+        text-decoration: none;
+        background-color: orangered;
+        color: white;
+        margin-left: 180px;
+        padding-top: 9px ;
+        padding-bottom: 9px ;
+        padding-right: 15px ;
+        padding-left: 15px ;
+        border-radius: 10px;
+        box-shadow: 0px 10px 10px rgba(255, 68, 0, 0.332);
+        font-size: 13px;
+        margin-top: px;
+    
+    }
+    .alltemps{
+        background-color: rgb(188, 163, 179);
+        padding-top: 20px;
+        padding-bottom: 20px;
+        border-radius: 20px;
+     
+    }
+    .container h4{
+        padding-left:49px;
+        font-weight: lighter;
+        margin-top: 7px;
+        font-family: Twentieth Century;
+    }
+    
+    .inner a{
+        text-decoration: none;
+        margin-left: 15px;
+        font-size: 22px;
+        font-family: Twentieth Century;
+    }
+    .inner {
+        text-decoration: none;
+        margin-left: -19px;
+        font-size: 19px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color: black;
+    }
+  
+    .name {
+        padding-top: 70px;
+        padding-left: 90px;
+        font-size: 21px;
+        font-family: Twentieth Century;
+    
+    }
+    .name h2 {
+     
+        font-size: 21px;
+        font-family: Twentieth Century;
+    
+    }
+    form.example button {
+        float: left;
+        width: 19%;
+        padding: 10px;
+        background: orangered;
+        color: white;
+        font-size: 17px;
+        border: 1px solid grey;
+        border-left: none; /* Prevent double borders */
+        cursor: pointer;
+        border-radius: 20px;
+        margin-left: -40px;
+      }
+      form.example input[type=text] {
+        padding: 10px;
+        font-size: 17px;
+        border: 1px solid grey;
+        float: left;
+        width: 68%;
+        background: #f1f1f1;
+        margin-left: 33px;
+        border-radius: 20px;
+    }
+}
+@media only screen and (max-width: 405px){
+    .sign a{
+        text-decoration: none;
+        margin-left: 400px;
+        margin-bottom: 1px;
+        background-color: orangered;
+        color: white;
+        padding-top: 9px ;
+        padding-bottom: 9px ;
+        padding-right: 15px ;
+        padding-left: 10px ;
+        border-radius: 10px;
+        box-shadow: 0px 10px 10px rgba(255, 68, 0, 0.332);
+    }
+    .sign{
+        margin-top: 69px;
+        margin-left: -380px;
+    }
+    .endc p{
+        text-align: left;
+        margin-right: 10px;
+        margin-left: 10px;
+    
+    }
+    .container {
+        background-color: rgb(255, 255, 255);
+        padding: 20px;
+        margin-left: 29px;
+        padding-top: 20px;
+        border-radius: 40px;
+        padding-bottom: 45px;
+        padding-left: 0px;
+        margin-right: 20px;
+    }
+    .container img{
+        height: 125px;
+        margin-left: 15px;
+        margin-right: 0cap;
+        border-radius: 20px;
+       
+    }
+    .buy a{
+        text-decoration: none;
+        background-color: orangered;
+        color: white;
+        margin-left: 180px;
+        padding-top: 9px ;
+        padding-bottom: 9px ;
+        padding-right: 15px ;
+        padding-left: 15px ;
+        border-radius: 10px;
+        box-shadow: 0px 10px 10px rgba(255, 68, 0, 0.332);
+        font-size: 13px;
+        margin-top: px;
+    
+    }
+    .alltemps{
+        background-color: rgb(188, 163, 179);
+        padding-top: 20px;
+        padding-bottom: 20px;
+        border-radius: 20px;
+     
+    }
+    .container h4{
+        padding-left:49px;
+        font-weight: lighter;
+        margin-top: 7px;
+        font-family: Twentieth Century;
+    }
+    
+    .inner a{
+        text-decoration: none;
+        margin-left: 10px;
+        font-size: 22px;
+        font-family: Twentieth Century;
+    }
+    .inner {
+        text-decoration: none;
+        margin-left: -19px;
+        font-size: 19px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color: black;
+    }
+  
+    .name {
+        padding-top: 70px;
+        padding-left: 90px;
+        font-size: 21px;
+        font-family: Twentieth Century;
+    
+    }
+    .name h2 {
+     
+        font-size: 21px;
+        font-family: Twentieth Century;
+    
+    }
+    form.example button {
+        float: left;
+        width: 19%;
+        padding: 10px;
+        background: orangered;
+        color: white;
+        font-size: 17px;
+        border: 1px solid grey;
+        border-left: none; /* Prevent double borders */
+        cursor: pointer;
+        border-radius: 20px;
+        margin-left: -40px;
+      }
+      form.example input[type=text] {
+        padding: 10px;
+        font-size: 17px;
+        border: 1px solid grey;
+        float: left;
+        width: 68%;
+        background: #f1f1f1;
+        margin-left: 33px;
+        border-radius: 20px;
+    }
+}
